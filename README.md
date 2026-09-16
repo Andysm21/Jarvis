@@ -14,7 +14,7 @@ on your repos, and proactively tell you the things you'd otherwise forget.
 | [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) | How the system is put together, and why |
 | [docs/DECISIONS.md](docs/DECISIONS.md) | Every significant technical choice, with the reasoning and the rejected alternatives |
 | [docs/ROADMAP.md](docs/ROADMAP.md) | Phased build order, each phase a working milestone |
-| [docs/SETUP.md](docs/SETUP.md) | The accounts and credentials **you** need to create before coding starts |
+| [docs/SETUP.md](docs/SETUP.md) | Click-by-click walkthrough of every account and credential **you** need to create |
 | [docs/COSTS.md](docs/COSTS.md) | Honest money breakdown — what's free, what isn't, where the bill comes from |
 | [docs/SECURITY.md](docs/SECURITY.md) | This thing can send email as you. How we keep that safe |
 
